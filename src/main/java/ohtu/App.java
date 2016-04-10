@@ -31,16 +31,6 @@ public class App {
             if (command.equals("new")) processNew();
             else processLogin();
             command = io.readLine(">");
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
         }
     }
     

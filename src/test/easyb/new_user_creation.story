@@ -89,7 +89,7 @@ scenario "creation fails with too short username and valid pasword", {
     }
 
     then 'new user is not be registered to system', {
-        io.getPrints().shouldHave("new user not registered")
+        io.getPrints().shouldHave("xxx")
     }
 }
 
