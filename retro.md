@@ -1,0 +1,6 @@
+#Start, Stop, Continue, More of, Less of Wheel
+Tässä tekniikassa tilaisuuden vetäjä auttaa tiimiä antamaan vapaamuotoista palautetta päättyneestä iteraatiosta. Yksinkertaisen piirakkakuvan avulla esitetään viisi avainkysymystä: 1) mitä sellaista pitäisi tehdä mitä emme ole vielä tehneet? 2) minkä tekeminen pitäisi lopettaa? 3) mikä on sellaista toimivaa asiaa, jota haluamme myös jatkaa? 4) mitä meidän pitäisi tehdä enemmän? 5) mitä meidän pitäisi tehdä vähemmän?
+Tarkoituksena on selvittää, mitä toimintatapoja pitäisi jatkaa ja mitä muuttaa jatkossa. Kesto 10-25 min, riippuen tiimin koosta ja iteraation pituudesta.
+
+#Glad, sad, mad
+Tiimi listaa lyhyitä havaintoja, muutostarpeita ja ongelmia kuluneelta sprintiltä; tähän käytetään 10-15 minuuttia. Sitten tiimi luokittelee ne otsikoiden "Glad", "Sad" ja "Mad" alle; jälleen 10-15 minuutin sisällä.  Listat kuvaavat karkeasti ottaen positiivisia havaintoja, negatiivisia havaintoja ja ärsytyksen lähteitä. Kun listaukset on tehty, yksi henkilö käy listoille merkityt asiat läpi ja niputtaa samaan aihepiiriin kuuluvat asiat yhdeksi nipuksi. Sitten osallistujat äänestävät (niputettujen) aiheiden tärkeydestä ja tämän jälkeen niistä keskustellaan tärkeysjärjestyksessä kunnes kaikki tulevat käsitellyiksi tai sessioon varattu aika (max tunti) loppuu.
